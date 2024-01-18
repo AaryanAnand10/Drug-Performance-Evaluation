@@ -58,9 +58,11 @@ Atopic Dermatitis,Hydrocortisone Sod Succ (PF),5.0,4.0,Liquid (Inject),On Label,
 Atopic Dermatitis,Hydrocortisone Sod Succinate,4.0,4.0,Liquid (Inject),On Label,49.99,1.5,4.5,RX
 Atopic Dermatitis,Hydrocortisone Valerate,2.0,2.0,Cream,On Label,74.99,6.0,2.0,RX
 Atopic Dermatitis,"Hydrocortisone, Pramoxine-Benzyl Alcohol",5.0,5.0,Cream,On Label,14.59,5.0,5.0,OTC
-Atopic Dermatitis,Hydrocortisone-Iodoquinl-Aloe2,3.0,3.0,Cream,"
+Atopic Dermatitis,Hydrocortisone-Iodoquinl-Aloe2,3.0,3.0,Cream,"
+
 ",7323.99,14.0,3.0,RX
-Atopic Dermatitis,Hydrocortisone-Iodoquinol,4.0,4.0,Cream,"
+Atopic Dermatitis,Hydrocortisone-Iodoquinol,4.0,4.0,Cream,"
+
 ",58.99,1.0,4.0,RX
 Atopic Dermatitis,Hydrocortisone-Oatmeal-Aloe-E,3.0,1.0,Cream,On Label,14.59,1.0,1.0,OTC
 Atopic Dermatitis,"Hydrocortisone-Pramoxine, Hydrocortisone",4.75,3.75,Cream,On Label,14.589999999999998,8.0,3.75,RX
@@ -79,9 +81,11 @@ Atopic Dermatitis,Tacrolimus,4.05,4.3100000000000005,Cream,On Label,232.99,28.5,
 Atopic Dermatitis,Triamcinolone Acetonide,3.6342857142857143,4.071428571428571,Cream,On Label,13.989999999999998,35.857142857142854,3.6214285714285714,RX
 Atopic Dermatitis,Triamcinolone Acetonide,3.3814285714285717,3.3971428571428572,Liquid (Inject),On Label,10.179999999999998,51.0,3.347142857142857,RX
 Atopic Dermatitis,Triamcinolone-Emollient Comb86,1.0,1.0,Other,On Label,612.99,2.0,1.0,RX
-Atopic Dermatitis,Vit E-Glycerin-Dimethicone,5.0,4.0,Cream,On Label,14.5,1.0,5.0,"
+Atopic Dermatitis,Vit E-Glycerin-Dimethicone,5.0,4.0,Cream,On Label,14.5,1.0,5.0,"
+
 "
-Atopic Dermatitis,"Vit E-Glycerin-Dimethicone, Glycerin-Dimethicone-Petro, Wh",3.0,2.0,Cream,On Label,14.5,3.0,2.5,"
+Atopic Dermatitis,"Vit E-Glycerin-Dimethicone, Glycerin-Dimethicone-Petro, Wh",3.0,2.0,Cream,On Label,14.5,3.0,2.5,"
+
 "
 Atopic Dermatitis,Vit E-Grape-Hyaluronate Sodium,4.54,3.69,Cream,On Label,302.99,22.0,3.77,RX
 Bacterial Conjunctivitis,Azithromycin,4.0,3.0,Liquid (Drink),On Label,266.99,2.0,2.0,RX
@@ -201,11 +205,14 @@ back pain,Menthol,4.21,3.637826086956522,Cream,On Label,7.949999999999998,1.4347
 back pain,"Menthol, Camphor-Methyl Salicyl-Menthol",5.0,5.0,Cream,On Label,11.99,1.0,5.0,OTC
 back pain,"Menthol, Capsaicin",5.0,4.0,Cream,On Label,7.95,1.0,5.0,OTC
 back pain,"Menthol-Camphor-Antarth Cb#1, Methyl Salicylate-Menthol, Camphor-Menthol, Camphor-Methyl Salicyl-Menthol",5.0,5.0,Cream,On Label,11.99,3.0,5.0,OTC
-back pain,Trolamine Salicylate,4.4799999999999995,3.8890000000000002,Cream,"
+back pain,Trolamine Salicylate,4.4799999999999995,3.8890000000000002,Cream,"
+
 ",11.989999999999998,7.2,3.7640000000000002,OTC
-back pain,"Trolamine Salicylate, Ala-Bos-Gin-Bas-Rose-Tur-Wil",3.0,5.0,Cream,"
+back pain,"Trolamine Salicylate, Ala-Bos-Gin-Bas-Rose-Tur-Wil",3.0,5.0,Cream,"
+
 ",11.99,2.0,3.0,OTC
-back pain,Trolamine Salicylate-Aloe Vera,5.0,5.0,Cream,"
+back pain,Trolamine Salicylate-Aloe Vera,5.0,5.0,Cream,"
+
 ",11.99,1.0,5.0,OTC
 biliary calculus,Ursodiol,4.324999999999999,4.275,Tablet,Off Label,84.89,22.5,4.25,RX
 biliary calculus,Ursodiol,4.58,4.26,Tablet,On Label,84.89,37.5,4.055,RX
@@ -326,11 +333,14 @@ fever,Phenyleph-DM-Acetamin-Guaifen,4.211538461538462,3.3846153846153846,Other,O
 fever,Phenylephrine-DM-Acetaminophen,5.0,5.0,Liquid (Drink),On Label,10.29,1.0,5.0,OTC
 fever,Phenylephrine-DM-Acetaminophen,5.0,4.0,Other,On Label,12.11,1.25,4.0,OTC
 fever,Phenylephrine-DM-Acetaminophen,5.0,5.0,Tablet,On Label,11.99,1.0,3.0,OTC
-fever,Phenyltoloxamine-Acetaminophen,4.566,3.434,Liquid (Drink),"
+fever,Phenyltoloxamine-Acetaminophen,4.566,3.434,Liquid (Drink),"
+
 ",10.790000000000001,2.8,3.566,OTC
-fever,Phenyltoloxamine-Acetaminophen,4.43,3.867,Liquid (Drink),"
+fever,Phenyltoloxamine-Acetaminophen,4.43,3.867,Liquid (Drink),"
+
 ",10.989999999999998,3.3,3.6079999999999997,RX
-fever,Phenyltoloxamine-Acetaminophen,4.5,3.25,Liquid (Drink),"
+fever,Phenyltoloxamine-Acetaminophen,4.5,3.25,Liquid (Drink),"
+
 ",10.99,3.5,3.25,RX/OTC
 fever,Pseudoeph-DM-GG-Acetaminophen,4.5325,4.1875,Liquid (Drink),On Label,11.409999999999998,7.75,3.6875,OTC
 fever,Pseudoeph-DM-GG-Acetaminophen,1.0,1.0,Tablet,On Label,11.99,2.0,1.0,OTC
@@ -371,7 +381,8 @@ flatulence,Calcium Carbonate-Mag Hydroxid,4.0,4.0,Liquid (Drink),On Label,11.99,
 flatulence,"Calcium Carbonate-Mag Hydroxid, Alum-Mag Hydroxide-Simeth",5.0,3.0,Liquid (Drink),On Label,11.99,3.0,4.0,OTC
 flatulence,Calcium Carbonate-Simethicone,5.0,5.0,Liquid (Drink),On Label,11.99,2.75,5.0,OTC
 flatulence,Simethicone,4.38875,3.70125,Liquid (Drink),On Label,11.899999999999995,7.59375,3.7309375,OTC
-flatulence,"Simethicone, Alpha-D-Galactosidase",5.0,3.0,Liquid (Drink),On Label,11.9,1.0,3.0,"
+flatulence,"Simethicone, Alpha-D-Galactosidase",5.0,3.0,Liquid (Drink),On Label,11.9,1.0,3.0,"
+
 "
 furunculosis,Gentamicin,5.0,3.75,Liquid (Drink),On Label,22.99,2.0,3.75,RX
 furunculosis,Mupirocin,4.68,4.455,Cream,Off Label,52.99,28.5,4.045,RX
@@ -521,9 +532,11 @@ hypercholesterolemia,Fluvastatin,4.6000000000000005,3.9333333333333336,Capsule,O
 hypercholesterolemia,Fluvastatin,4.36,3.71,Tablet,On Label,137.99,19.0,3.21,RX
 hypercholesterolemia,Lovastatin,3.0,3.0,Liquid (Inject),On Label,1336.12,1.0,3.0,RX
 hypercholesterolemia,Lovastatin,3.84,3.19,Tablet,On Label,216.99,65.33333333333333,3.02,RX
-hypercholesterolemia,Niacin,3.56,3.19,Liquid (Inject),On Label,1336.12,42.0,3.13,"
+hypercholesterolemia,Niacin,3.56,3.19,Liquid (Inject),On Label,1336.12,42.0,3.13,"
+
 "
-hypercholesterolemia,Niacin,4.43,4.0,Tablet,On Label,59.59,13.0,4.29,"
+hypercholesterolemia,Niacin,4.43,4.0,Tablet,On Label,59.59,13.0,4.29,"
+
 "
 hypercholesterolemia,Niacin,3.0,3.0,Capsule,On Label,155.99,3.0,3.0,OTC
 hypercholesterolemia,Niacin,2.0,5.0,Liquid (Inject),On Label,1336.12,1.0,3.0,OTC
